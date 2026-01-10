@@ -297,4 +297,4 @@ Proprietary — EPSON Manufacturing Systems Internal Use Only
 
 ---
 
-**Questions?** Contact ML Platform Team | Last Updated: 2024
+**Questions?** Contact ML Platform Team | Last Updated: 2026
